@@ -1,7 +1,6 @@
 
 # convert -coalesce gifwala.gif %05d.png
 
-import numpy as np
 from PIL import Image
 import glob
 
